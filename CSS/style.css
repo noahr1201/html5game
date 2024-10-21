@@ -1,0 +1,23 @@
+#game {
+    width: 100vw;
+    height: 75vw;
+    max-height: 100vh;
+    max-width: 133.33vh;
+    margin: auto;
+    position: absolute;
+    top: 0;bottom: 0;left: 0;right: 0;
+}
+
+#canvas {
+    width: 90%;
+    height: 90%;
+    background-color: black;
+
+    margin: auto;
+    position: absolute;
+    top: 0;bottom: 0;left: 0;right: 0;
+
+    border: 1px solid white;
+    border-radius: 10px;
+    border-color: #c3c3c3;
+}
